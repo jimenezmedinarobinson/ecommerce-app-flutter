@@ -1,0 +1,17 @@
+*.iml
+*.lock
+*.log
+*.apk
+*.aab
+*.keystore
+*.jks
+build/
+.android/
+.idea/
+.vscode/
+.dart_tool/
+.pub-cache/
+.pub/
+.credentials/
+.gradle/
+.env
